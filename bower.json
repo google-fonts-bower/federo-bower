@@ -1,0 +1,17 @@
+{
+    "name": "federo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/federo-bower.git"
+    },
+    "description": "Federo font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
